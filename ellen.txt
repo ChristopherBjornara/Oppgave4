@@ -2,6 +2,11 @@ Ellen
 Du er en piss!
 Gå ut av min git!
 
+<<<<<<< HEAD
 ELLEN!!! SLUTT
 
 Prøver en gang til
+=======
+
+CHRIS!!!!! gå vekk
+>>>>>>> 340efd16f566e0f86953a1fa65dbcff37ce939d3
